@@ -1,5 +1,8 @@
 # Dekhorcmu
 
+## 🏆 1st 🥇 รางวัล การประกวดโครงงาน ค่ายเพิ่มทักษะทางคอมพิวเตอร์สำหรับนักศึกษา ประจำปั 2561
+![Award](https://www.img.in.th/images/ad8480b943c6df3b13a1ed4b49381695.jpg "Award")
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
 ## Development server
