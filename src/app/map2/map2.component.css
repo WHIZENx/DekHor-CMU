@@ -1,0 +1,10 @@
+.background {
+  background-image: url('./assets/map.jpg');
+  background-position: center;
+  height: 100%;
+  background-size: cover;
+}
+
+a {
+  font-family: 'Kodchasan', sans-serif;
+}
